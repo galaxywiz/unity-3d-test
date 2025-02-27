@@ -1,0 +1,17 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Exclude specific AddressableAssetsData files if necessary
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bundle
+
+# Include meta files
+!*.meta
